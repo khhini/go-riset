@@ -1,0 +1,12 @@
+version: "3.9"  # optional since v1.27.0
+services:
+  db:
+    image: mysql
+    container_name: msyql_db
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_USER: dbuser
+      MYSQL_PASSWORD: password
+      MYSQL_DATABASE: godb
+    ports:
+      - "3306:3306"
