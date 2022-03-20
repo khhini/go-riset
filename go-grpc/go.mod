@@ -1,4 +1,4 @@
-module github.com/khh-ini/go-riset/go-grpc
+module github.com/khhini/go-riset/go-grpc
 
 go 1.17
 

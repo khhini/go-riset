@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	pb "github.com/khh-ini/go-riset/go-grpc/usermgmt"
+	pb "github.com/khhini/go-riset/go-grpc/usermgmt"
 	"google.golang.org/grpc"
 )
 

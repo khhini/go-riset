@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/jackc/pgx/v4"
-	pb "github.com/khh-ini/go-riset/go-grpc/usermgmt"
+	pb "github.com/khhini/go-riset/go-grpc/usermgmt"
 	"google.golang.org/grpc"
 )
 

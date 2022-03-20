@@ -1,4 +1,4 @@
-module github.com/khh-ini/go-riset/go-web/helloworld
+module github.com/khhini/go-riset/go-web/helloworld
 
 go 1.17
 
